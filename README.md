@@ -19,7 +19,7 @@ SOCIAL IMPACT :
 
 SYSTEM DESIGN :
 
-![image](https://github.com/user-attachments/assets/aeeb6939-fb18-481a-aeaa-1cf9213e0cbe)
+![image](https://github.com/user-attachments/assets/dcab1981-f6f4-4bee-bfc0-41e5a673721f)
 
 CHALLENGES :
 
