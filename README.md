@@ -36,30 +36,21 @@ LIMITATIONS :
 
 HARDWARE REQUIREMENTS :
 
-Operating System : Windows 7 or Later 
-
-Hard disk	: Minimum 200 MB  
-
-RAM	: 512 MB OR More 
-
-Antivirus Software : Norton Antivirus Plus 
-
-Processor Speed	: 250 MHz to 833 MHz 
-
-Processor	: Intel Pentium 
+· Operating System : Windows 7 or Later 
+· Hard disk	: Minimum 200 MB  
+· RAM	: 512 MB OR More 
+· Antivirus Software : Norton Antivirus Plus 
+· Processor Speed	: 250 MHz to 833 MHz 
+· Processor	: Intel Pentium 
 
 
 SOFTWARE REQUIREMENTS :
 
-Programming Language : Web 
-
-Front End	: HTML 5, CSS 3, Bootstrap 5 
-
-Back End	: JavaScript 
-
-Platform : Visual Studio Code 
-
-Browser : Microsoft edge, Google or Others
+· Programming Language : Web 
+· Front End	: HTML 5, CSS 3, Bootstrap 5 
+· Back End	: JavaScript 
+· Platform : Visual Studio Code 
+· Browser : Microsoft edge, Google or Others
 
 SYSTEM DESIGN :
 
