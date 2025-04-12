@@ -29,6 +29,7 @@ LIMITATIONS :
 · Developing robust interactive features for community engagement requires ongoing attention.
 
 HARDWARE REQUIREMENTS :
+
 Operating System : Windows 7 or Later 
 
 Hard disk	: Minimum 200 MB  
@@ -42,59 +43,20 @@ Processor Speed	: 250 MHz to 833 MHz
 Processor	: Intel Pentium 
 
 SOFTWARE REQUIREMENTS :
+
 Programming Language : Web 
+
 Front End	: HTML 5, CSS 3, Bootstrap 5 
+
 Back End	: JavaScript 
+
 Platform : Visual Studio Code 
+
 Browser : Microsoft edge, Google or Others
 
 SYSTEM DESIGN :
 
 ![image](https://github.com/user-attachments/assets/5dfd8d46-50ec-451f-99a2-18c2805f9398)
-
-IMPLEMENTATION METHODOLOGY :
-Placement Management System designed with the following major modules: 
-Company 
-Student 
-ADMIN MODULE :
-The purpose of the admin module is to display the details about the available companies and the number of vacancies in each company. It also displays the requirements expected from each company.   
-PSEUDO CODE : 
-      BEGIN 
-      *ENTER Username and Password. 
-      *CLICK Login button. 
-      *IF credentials are correct, user is taken to ADMIN module. 
-      *UPDATE Job Posting Details (e.g., modify job description, requirements, etc.). 
-      *CLICK Post New Job button. 
-      *ENTER Job Details (e.g., job title, description, requirements). 
-      *CLICK Add button. 
-      *UPDATE Job Postings at database. 
-      *VIEW Received Applications for Posted Jobs. 
-      *SELECT Specific Application to View Details. 
-      *UPDATE Application Status (e.g., shortlist). 
-      *CLICK Update button. 
-      *UPDATE Application Status at database. 
-      *LOGOUT. 
-
-STUDENT MODULE :
-With the help of student module students are able to apply for their dream companies if they are eligible and can satisfy the parameters mentioned by the company. The students can also create resume using the student module. 
-PSEUDO CODE :
-      *ENTER Username and Password. 
-      *CLICK Login button. 
-      *IF credentials are correct, user is taken to STUDENT module. 
-      *VIEW Available Job Postings 
-      *VIEW Job Details (e.g., job title, description, requirements). 
-      *CLICK Apply button. 
-      *ENTER Application Details (e.g., cover letter, resume). 
-      *CLICK Submit button. 
-      *UPDATE Application Details at database. 
-      *CREATE Resume. 
-      *CLICK Create Resume button. 
-      *ENTER Personal Information, Education History, Work Experience, Skills, etc. 
-      *CLICK Save button. 
-      *UPDATE Resume details at database. 
-      *VIEW Application Status for Posted Jobs 
-      *LOGOUT. 
-      END 
 
 Conclusion :
 In conclusion, the establishment of this static career guidance website signifies a momentous stride in furnishing individuals with essential resources and assistance to navigate their professional pathways with confidence. With its meticulously curated content and intuitively designed interface, the website stands as an all-encompassing platform facilitating comprehensive career exploration and development. By empowering users with access to a wealth of information, insights, and tools, it enables them to navigate their career trajectories with clarity and informed decision-making. This platform serves not only as a repository of knowledge but also as a guiding beacon, empowering users to chart their professional courses with conviction and purpose. Through its user-centric approach and dedication to excellence, the website exemplifies a commitment to equipping individuals with the resources and support necessary to thrive in their chosen careers. 
