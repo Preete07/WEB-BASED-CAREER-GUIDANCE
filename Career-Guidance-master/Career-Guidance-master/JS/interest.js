@@ -1,0 +1,1266 @@
+$(document).ready(function(){
+     $("h3#one").click(function(q){
+         q.preventDefault();
+         $("#course1").toggle();
+     });
+ });
+ $(document).ready(function(){
+    $("h3#two").click(function(q){
+        q.preventDefault();
+        $("#course2").toggle();
+    });
+});
+$(document).ready(function(){
+    $("h3#three").click(function(q){
+        q.preventDefault();
+        $("#course3").toggle();
+    });
+});
+$(document).ready(function(){
+    $("h3#four").click(function(q){
+        q.preventDefault();
+        $("#course4").toggle();
+    });
+});
+$(document).ready(function(){
+    $("h3#five").click(function(q){
+        q.preventDefault();
+        $("#course5").toggle();
+    });
+});
+$(document).ready(function(){
+    $("h3#six").click(function(q){
+        q.preventDefault();
+        $("#course6").toggle();
+    });
+});
+$(document).ready(function() {
+    $("button#itA4").click(function(q){
+        q.preventDefault();
+        $("#science").toggle();
+        $("#data").hide();
+        $("#man").hide();
+        $("#bussman").hide();
+        $("#BDS").hide();
+        $("#IT").hide();
+        $("#BA").hide();
+        $("#mbbs").hide();
+        $("#count").hide();
+        $("#HE").hide();
+        $("#system").hide();
+        $("#bussit").hide();
+        $("#soft").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    
+    })
+})
+$(document).ready(function() {
+    $("button#itA1").click(function(q){
+        q.preventDefault();
+        $("#data").toggle();
+        $("#science").hide();
+        $("#man").hide();
+        $("#bussman").hide();
+        $("#BDS").hide();
+        $("#IT").hide();
+        $("#BA").hide();
+        $("#LA").hide();
+        $("#count").hide();
+        $("#HE").hide();
+        $("#system").hide();
+        $("#bussit").hide();
+        $("#soft").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itB4").click(function(q){
+        q.preventDefault();
+        $("#man").toggle();
+        $("#science").hide();
+        $("#bussman").hide();
+        $("#BDS").hide();
+        $("#IT").hide();
+        $("#BA").hide();
+        $("#LA").hide();
+        $("#count").hide();
+        $("#HE").hide();
+        $("#bussit").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itB3").click(function(q){
+        q.preventDefault();
+        $("#bussman").toggle();
+        $("#IT").hide();
+        $("#BA").hide();
+        $("#LA").hide();
+        $("#count").hide();
+        $("#BDS").hide();
+        $("#HE").hide();
+        $("#bussit").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    
+    })
+})
+$(document).ready(function() {
+    $("button#itA").click(function(q){
+        q.preventDefault();
+        $("#IT").toggle();
+        $("#BA").hide();
+        $("#LA").hide();
+        $("#count").hide();
+        $("#BDS").hide();
+        $("#HE").hide();
+        $("#bussit").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itB2").click(function(q){
+        q.preventDefault();
+        $("#buss").toggle();
+        $("#LA").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#count").hide();
+        $("#BDS").hide();
+        $("#HE").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itB1").click(function(q){
+        q.preventDefault();
+        $("#count").toggle();
+        $("#BA").hide();
+        $("#LA").hide();
+        $("#IT").hide();
+        $("#BDS").hide();
+        $("#HE").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itB").click(function(q){
+        q.preventDefault();
+        $("#BA").toggle();
+        $("#IT").hide();
+        $("#BDS").hide();
+        $("#LA").hide();
+        $("#count").hide();
+        $("#HE").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itC").click(function(q){
+        q.preventDefault();
+        $("#mbbs").toggle();
+        $("#BDS").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#count").hide();
+        $("#HE").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#itc1").click(function(q){
+        q.preventDefault();
+        $("#BDS").toggle();
+        $("#mbbs").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#count").hide();
+        $("#HE").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function() {
+    $("button#acc").click(function(q){
+        q.preventDefault();
+        $("#count").hide();
+        $("#BA").hide();
+        $("#BDS").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#HE").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+    })
+})
+$(document).ready(function() {
+
+    $("button#itd").click(function(q){
+        q.preventDefault();
+        $("#jns").toggle();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#system").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+
+
+
+$(document).ready(function(){
+
+    $("button#itA2").click(function(q){
+        q.preventDefault();
+        $("#system").toggle();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#Law").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#soft").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#itA3").click(function(q){
+        q.preventDefault();
+        $("#soft").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#Law").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#itc2").click(function(q){
+        q.preventDefault();
+        $("#bams").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#Law").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+
+$(document).ready(function(){
+
+    $("button#itc4").click(function(q){
+        q.preventDefault();
+        $("#bscn").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#Law").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#itd1").click(function(q){
+        q.preventDefault();
+        $("#fa").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#Law").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#jns").hide();
+        $("#bscn").hide();
+        $("#fash").hide();
+        $("#bhms").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#itd2").click(function(q){
+        q.preventDefault();
+        $("#fash").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#hm").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#jns").hide();
+        $("#bscn").hide();
+        $("#fa").hide();
+        $("#Law").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#itd3").click(function(q){
+        q.preventDefault();
+        $("#Law").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+       
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#jns").hide();
+        $("#bscn").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#bhms").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#BHMS").click(function(q){
+        q.preventDefault();
+        $("#bhms").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#jns").hide();
+        $("#bscn").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+    })
+})
+$(document).ready(function(){
+
+    $("button#itd4").click(function(q){
+        q.preventDefault();
+        $("#hm").toggle();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#mbbs").hide();
+        $("#BDS").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+        $("#bams").hide();
+        $("#jns").hide();
+        $("#bscn").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#bhms").hide();
+
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+    })
+})
+
+
+$(document).ready(function(){
+
+    $("button#CIVIL").click(function(q){
+        q.preventDefault();
+        $("#civil").toggle();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#english").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#ELECT").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").toggle();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#english").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#MARINE").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").toggle();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#english").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#ENG").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").toggle();
+        $("#mechanical").hide();
+        $("#english").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#Mechanical").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").toggle();
+        $("#english").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#PHYSICS").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").toggle();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#EVS").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").toggle();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#MATHS").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").toggle();
+        $("#biotech").hide();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#BIOTECH").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").toggle();
+        $("#psycho").hide();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+$(document).ready(function(){
+
+    $("button#PSYCHO").click(function(q){
+        q.preventDefault();
+        $("#civil").hide();
+        $("#elect").hide();
+        $("#Marine").hide();
+        $("#Mecha").hide();
+        $("#mechanical").hide();
+        $("#phy").hide();
+        $("#evs").hide();
+        $("#maths").hide();
+        $("#biotech").hide();
+        $("#psycho").toggle();
+
+
+
+        $("#soft").hide();
+        $("#system").hide();
+        $("#BA").hide();
+        $("#IT").hide();
+        $("#LA").hide();
+        $("#HE").hide();
+        $("#count").hide();
+        $("#buss").hide();
+        $("#bussman").hide();
+        $("#man").hide();
+        $("#data").hide();
+        $("#science").hide();
+
+        
+        $("#BDS").hide();
+        $("#mbbs").hide();
+        $("#bussit").hide();
+        $("#bams").hide();
+        $("#bhms").hide();
+        $("#bscn").hide();
+        $("#jns").hide();
+        $("#fa").hide();
+        $("#fash").hide();
+        $("#Law").hide();
+        $("#hm").hide();
+    })
+})
+
+
+
+$(document).ready(function() {
+    $("#btn6").click(function(){
+       alert("ThankYou for your interest, we'll get back at you shortly");
+       window.location.href="../index.html";
+    })
+})
+
