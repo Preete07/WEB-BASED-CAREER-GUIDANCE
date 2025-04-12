@@ -17,14 +17,14 @@ SOCIAL IMPACT :
 * This can bridge the gap between different generations and backgrounds.
 * Support for Non-Traditional Career Paths: Include resources and guidance for non-traditional or unconventional career paths, encouraging users to pursue their passions even if they don't follow traditional trajectories.
 
+SYSTEM DESIGN :
+
+![image](https://github.com/user-attachments/assets/aeeb6939-fb18-481a-aeaa-1cf9213e0cbe)
+
 CHALLENGES :
 
 * Maintaining accurate information about job postings and student profiles.
 * Protecting sensitive data from cyber threats and unauthorized access.
-
-SYSTEM DESIGN :
-
-![image](https://github.com/user-attachments/assets/aeeb6939-fb18-481a-aeaa-1cf9213e0cbe)
 
 CONCLUSION :
 
