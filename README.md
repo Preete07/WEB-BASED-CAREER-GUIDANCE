@@ -14,26 +14,20 @@ Objective :
 SOCIAL IMPACT :
 
 * Mentor ship and Volunteering Opportunities: a platform where experienced professionals can offer mentor ship to underserved or underrepresented individuals.
-
-· This can bridge the gap between different generations and backgrounds.
-
-· Support for Non-Traditional Career Paths: Include resources and guidance for non-traditional or unconventional career paths, encouraging users to pursue their passions even if they don't follow traditional trajectories.
+* This can bridge the gap between different generations and backgrounds.
+* Support for Non-Traditional Career Paths: Include resources and guidance for non-traditional or unconventional career paths, encouraging users to pursue their passions even if they don't follow traditional trajectories.
 
 CHALLENGES :
 
-· Maintaining accurate information about job postings and student profiles.
-
-· Protecting sensitive data from cyber threats and unauthorized access.
+* Maintaining accurate information about job postings and student profiles.
+* Protecting sensitive data from cyber threats and unauthorized access.
 
 LIMITATIONS :
 
-· Managing continuous content updates and monitoring for accuracy and relevance is resource - intensive.
-
-· Ensuring consistent accessibility across diverse devices and platforms poses technical complexities.
-
-· Optimizing multimedia elements for users with slower internet connections may impact performance.
-
-· Developing robust interactive features for community engagement requires ongoing attention.
+* Managing continuous content updates and monitoring for accuracy and relevance is resource - intensive.
+* Ensuring consistent accessibility across diverse devices and platforms poses technical complexities.
+* Optimizing multimedia elements for users with slower internet connections may impact performance.
+* Developing robust interactive features for community engagement requires ongoing attention.
 
 SYSTEM DESIGN :
 
