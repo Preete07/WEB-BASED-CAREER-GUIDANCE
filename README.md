@@ -22,13 +22,6 @@ CHALLENGES :
 * Maintaining accurate information about job postings and student profiles.
 * Protecting sensitive data from cyber threats and unauthorized access.
 
-LIMITATIONS :
-
-* Managing continuous content updates and monitoring for accuracy and relevance is resource - intensive.
-* Ensuring consistent accessibility across diverse devices and platforms poses technical complexities.
-* Optimizing multimedia elements for users with slower internet connections may impact performance.
-* Developing robust interactive features for community engagement requires ongoing attention.
-
 SYSTEM DESIGN :
 
 ![image](https://github.com/user-attachments/assets/aeeb6939-fb18-481a-aeaa-1cf9213e0cbe)
