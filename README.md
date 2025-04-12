@@ -1,24 +1,13 @@
-# WEB-BASED-CAREER-GUIDANCE
+Career Guidance Website for Students :
+This project aims to design and develop a static career guidance website utilizing HTML, CSS, and Bootstrap technologies. The website serves as a comprehensive platform to assist students and individuals in making informed decisions about their career paths. Through intuitive navigation and user-friendly interfaces, the website provides a related college websites, youtube links and external resources like information about complimentary certificates. Leveraging the flexibility and responsiveness of Bootstrap, the website ensures seamless access across various devices and screen sizes. This website aims to empower users to explore, plan, and navigate their career journeys with confidence and clarity.​
 
-INTRODUCTION :
-
-Introducing the pivotal topic of career guidance, it's undeniable that in today's competitive job market, individuals face an array of challenges when navigating their professional paths. Career guidance serves as the compass in this journey, offering invaluable insights, resources, and strategies to help individuals make informed decisions about their education, training, and career trajectories. From assessing personal strengths and interests to exploring diverse career opportunities and honing relevant skills, career guidance empowers individuals to chart a course towards fulfilling and meaningful work. In this digital age, where online presence is paramount, the development of a static website using HTML, CSS, and Bootstrap serves as a practical embodiment of one's professional identity. Through this website, individuals can showcase their skills, experiences, and achievements, thereby enhancing their visibility to potential employers and networking opportunities. Thus, the fusion of career guidance principles with the creation of a static website underscores the importance of leveraging technology to navigate and thrive in today's ever-evolving job landscape.
-
-PROBLEM STATEMENT :
-
-This web-based career guidance platform that assists users in Exploring potential career paths. This platform will offer personalized recommendations based on user’s interests , skills and goals ,utilizing our project to create an engaging and informative user experience. The system will provide information about various professions , required education, and skill development opportunities to help users to make their informed decisions about their career paths.
-
-OBJECTIVE :
-
-· To create an online platform offering information about various courses.
-
-· To provide resources via links and attachments for students considering undergraduate studies.
-
-· To provide resources via links and attachments for students considering undergraduate studies.
-
-· To offer details about different domains, necessary skills, and educational paths.
-
-· To provide complimentary certificates to help match users with suitable career options.
+Objective :
+To design and develop a static career guidance website using HTML, CSS, and Bootstrap.
+To assist students and individuals in making informed decisions about their career paths.
+To provide easy navigation and a user-friendly interface for a better user experience.
+To include links to related college websites, YouTube resources, and external certification details.
+To ensure the website is fully responsive and accessible across various devices and screen sizes using Bootstrap.
+To empower users to explore, plan, and navigate their career journeys with confidence and clarity.
 
 SOCIAL IMPACT :
 
