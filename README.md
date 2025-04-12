@@ -44,8 +44,8 @@ Platform : Visual Studio Code
 Browser : Microsoft edge, Google or Others
 
 SYSTEM DESIGN :
-![image](https://github.com/user-attachments/assets/5dfd8d46-50ec-451f-99a2-18c2805f9398)
 
+![image](https://github.com/user-attachments/assets/5dfd8d46-50ec-451f-99a2-18c2805f9398)
 
 IMPLEMENTATION METHODOLOGY :
 Placement Management System designed with the following major modules: 
