@@ -13,7 +13,7 @@ Objective :
 
 SOCIAL IMPACT :
 
-· Mentor ship and Volunteering Opportunities: a platform where experienced professionals can offer mentor ship to underserved or underrepresented individuals.
+* Mentor ship and Volunteering Opportunities: a platform where experienced professionals can offer mentor ship to underserved or underrepresented individuals.
 
 · This can bridge the gap between different generations and backgrounds.
 
