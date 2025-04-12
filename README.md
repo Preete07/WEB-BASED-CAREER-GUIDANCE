@@ -31,7 +31,7 @@ LIMITATIONS :
 
 SYSTEM DESIGN :
 
-![image](https://github.com/user-attachments/assets/5dfd8d46-50ec-451f-99a2-18c2805f9398)
+![Uploading image.png…]()
 
 CONCLUSION :
 
